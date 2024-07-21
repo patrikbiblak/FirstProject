@@ -1,11 +1,3 @@
-footer {
-    background-image: url(../images/background/cover.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 50% 50%;
-    background-attachment: fixed;
-}
-
 .global-footer {
     display: flex;
     flex-direction: column;
