@@ -22,6 +22,10 @@ header, main, footer {
     background-attachment: fixed;
 }
 
+header {
+    background-color: black;
+}
+
 html {
     font-size: 100%;
     line-height: 1.15;
