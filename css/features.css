@@ -75,7 +75,8 @@
     height: 250px;
 }
 
-#portfolio img:hover {
+#portfolio img:hover,
+#portfolio img:active {
     padding: 2rem;
     transition: .5s ease;
 }
