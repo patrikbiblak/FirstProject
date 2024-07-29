@@ -37,7 +37,7 @@ header {
 .main-nav {
     width: 100vw;
     color: #fff;
-    background: #000;
+    background: rgb(0, 0, 0, 0.7);
     padding: 0.5rem;
     display: flex;
     place-content: center;
@@ -45,8 +45,8 @@ header {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
     font-size: clamp(1rem, 4vw, 1.25rem);
 
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    top: 0;
 }
 
 .main-nav .menu {
