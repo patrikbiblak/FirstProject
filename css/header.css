@@ -37,7 +37,7 @@ header {
 .main-nav {
     width: 100vw;
     color: #fff;
-    background: rgb(0, 0, 0, 0.7);
+    background: rgb(0, 0, 0, 0.75);
     padding: 0.5rem;
     display: flex;
     place-content: center;
